@@ -1,0 +1,136 @@
+{
+  "statusCode": 201,
+  "success": "",
+  "data": [
+    {
+      "_id": "635bc3950a9e05fae0b9053e",
+      "item_code": "ITEMCODELEGS",
+      "structure": "635bc32f0a9e05fae0b9052f",
+      "name": "Legs",
+      "image": "legs",
+      "project_type": "",
+      "is_enabled": 1,
+      "base_wall_tall_units": {
+        "width_ranges": [
+          ""
+        ],
+        "height_ranges": [
+          ""
+        ],
+        "depth_range": [
+          ""
+        ],
+        "no_of_finishes": "",
+        "no_of_handles": "",
+        "no_of_hardwares": "",
+        "no_of_accessories": "",
+        "hardware": {
+          "ids": [
+            "635bc1e20a9e05fae0b904d0"
+          ],
+          "defaultHardwares": [
+            {
+              "hardware_category": "635bc1e20a9e05fae0b904d0",
+              "hardware_default": [
+                "ITEMCODEHW450",
+                "HETQV6PE350"
+              ]
+            }
+          ]
+        },
+        "accessory": []
+      },
+      "created_at": "2022-10-28T11:57:09.139Z",
+      "updated_at": "2022-11-03T19:47:53.831Z",
+      "__v": 0
+    },
+    {
+      "_id": "6363d6850cf17f65f2dcdfef",
+      "item_code": "ITEMCODESKIRT",
+      "structure": "635bc32f0a9e05fae0b9052f",
+      "name": "Skirting",
+      "image": "skirting",
+      "project_type": "",
+      "is_enabled": 1,
+      "base_wall_tall_units": {
+        "width_ranges": [
+          ""
+        ],
+        "height_ranges": [
+          ""
+        ],
+        "depth_range": [
+          ""
+        ],
+        "no_of_finishes": "",
+        "no_of_handles": "",
+        "no_of_hardwares": "",
+        "no_of_accessories": "",
+        "hardware": {
+          "ids": [
+            "635bc1e20a9e05fae0b904d0"
+          ],
+          "defaultHardwares": [
+            {
+              "hardware_category": "635bc1e20a9e05fae0b904d0",
+              "hardware_default": [
+                "ITEMCODEHW450",
+                "HETQV6PE350"
+              ]
+            }
+          ]
+        },
+        "accessory": []
+      },
+      "created_at": "",
+      "updated_at": "",
+      "__v": 0
+    },
+    {
+      "_id": "636e9b4b4421093c84e60c7f",
+      "item_code": "ITEMCODEHANDLE",
+      "structure": "635bc32f0a9e05fae0b9052f",
+      "name": "Handles",
+      "image": "handles",
+      "project_type": "",
+      "is_enabled": 1,
+      "base_wall_tall_units": {
+        "width_ranges": [
+          ""
+        ],
+        "height_ranges": [
+          ""
+        ],
+        "depth_range": [
+          ""
+        ],
+        "no_of_finishes": "",
+        "no_of_handles": "",
+        "no_of_hardwares": "",
+        "no_of_accessories": "",
+        "hardware": {
+          "ids": [
+            "635bc1e20a9e05fae0b904d0"
+          ],
+          "defaultHardwares": [
+            {
+              "hardware_category": "635bc1e20a9e05fae0b904d0",
+              "hardware_default": [
+                "ITEMCODEHW450",
+                "HETQV6PE350"
+              ]
+            }
+          ]
+        },
+        "accessory": []
+      },
+      "created_at": "",
+      "updated_at": "",
+      "__v": 0
+    }
+  ],
+  "pagination": {
+    "total": 5,
+    "pages": 1
+  }
+}

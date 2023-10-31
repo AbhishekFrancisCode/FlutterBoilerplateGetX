@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "android" : {
+                "name":"",
+                "base_url":"",
+                "share_pdf_url" :"",
+                "upload_file_url":"",
+                "share_image_url":""
+                }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "statusCode": 201,
+  "success": "",
+  "data": [
+    {
+      "_id": "639800a50f2629456a9399da",
+      "global_type": "WARDROBE_STRUCTURE",
+      "name": "Handles",
+      "is_enabled": 1,
+      "meta": {
+        "image": "",
+        "details": ""
+      },
+      "created_by": "",
+      "created_at": "",
+      "updated_at": "",
+      "__v": 0
+    }
+  ],
+  "pagination": {
+    "total": 6,
+    "pages": 1
+  }
+}
